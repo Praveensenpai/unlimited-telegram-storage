@@ -1,6 +1,6 @@
 # Unlimited Telegram Storage (Beta)
 
-*Note: This is a beta release. The tool will be marked as stable once all features are complete and thoroughly tested.*
+*Note: This is a beta release. The tool will be marked as stable once all features are complete and thoroughly tested...*
 
 ## 🚀 Overview
 
