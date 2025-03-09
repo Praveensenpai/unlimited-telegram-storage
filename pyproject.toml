@@ -1,0 +1,17 @@
+[project]
+name = "unlimited-telegram-storage"
+version = "0.1.0"
+description = "Telegram Cloud Storage with no size limit per file and more features."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.1.8",
+    "pydantic>=2.10.6",
+    "pynput>=1.8.0",
+    "pyrogram>=2.0.106",
+    "rich>=13.9.4",
+    "ruff>=0.9.10",
+    "tgcrypto>=1.2.5",
+    "typer>=0.15.2",
+
+]
